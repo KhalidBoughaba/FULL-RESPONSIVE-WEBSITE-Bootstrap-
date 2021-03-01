@@ -127,3 +127,14 @@ h1{
 	margin-top: 50px;
 }
 
+@media only screen and (min-width: 1029px){
+.card
+{
+    display: block;
+	flex-flow: row wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+
+
+}
+}
